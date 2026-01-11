@@ -1,10 +1,10 @@
-📁 FileFlow – Python File Organizer
+# 📁 FileFlow – Python File Organizer
 
 FileFlow is a Python-based file organizer that automatically sorts files in any selected folder into well-structured categories using a simple and clean GUI.
 
 The application works on any folder chosen by the user and organizes files into an Organized_Folders directory inside the selected path.
 
-🚀 How It Works
+# 🚀 How It Works
 
 Run the application
 
@@ -24,7 +24,7 @@ Uppercase file extensions
 
 Files without extensions
 
-📂 Output Structure
+# 📂 Output Structure
 Selected_Folder/
 └── Organized_Folders/
     ├── Videos/
@@ -44,10 +44,10 @@ pdf, txt, docx, xlsx	Documents
 py, c, java, html	Code
 zip, rar, 7z	Archive
 No / unknown extension	Junk
-▶️ How to Run
+# ▶️ How to Run
 python gui.py
 
-🛠️ Built With
+# 🛠️ Built With
 
 Python 3
 
